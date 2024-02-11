@@ -26,6 +26,5 @@ btns.forEach(function(btn){
               value.style.color = "black";
          }
          value.textContent = count;        
-        
      });
 });
